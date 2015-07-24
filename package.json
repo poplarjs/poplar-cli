@@ -1,0 +1,27 @@
+{
+  "name": "poplar-cli",
+  "version": "1.0.0",
+  "description": "Poplar commandline tool",
+  "main": "bin/poplar",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poplarjs/poplar-cli.git"
+  },
+  "keywords": [
+    "poplar",
+    "commandline",
+    "tool",
+    "controller",
+    "entity",
+    "scaffold"
+  ],
+  "author": "lyfeyaj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/poplarjs/poplar-cli/issues"
+  },
+  "homepage": "https://github.com/poplarjs/poplar-cli#readme"
+}
